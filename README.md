@@ -17,18 +17,12 @@ I'm a programmer who is passionate about building things with code. I know a var
 
 I have several projects on my GitHub that showcase my skills and interests:
 
-- [Project 1](https://github.com/Nic-223/Project-1) - A web application built with Flask and React.js
-- [Project 2](https://github.com/Nic-223/Project-2) - A Python script that automates a tedious task
-- [Project 3](https://github.com/Nic-223/Project-3) - An open-source library for data analysis
+- [Vexnet]([https://github.com/Nic-223/Project-1](https://github.com/Nic-223/Sunlight-systems)) - A multi purpose discord bot
 
 ## 🔭 My stats
 
 [![Nic-223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nic-223&count_private=true&show_icons=true&theme=radical)](https://github.com/Nic-223)
 
-## 📫 Get in touch
-
-- LinkedIn: [Nic-223](https://www.linkedin.com/in/Nic-223/)
-- Email: nic.223@example.com
 
 ## 📚 Badges
 
