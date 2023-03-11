@@ -21,12 +21,12 @@ I have several projects on my GitHub that showcase my skills and interests:
 
 ## Advancement
 
-[![CSS](https://img.shields.io/badge/CSS-Intermediate-orange)](https://shields.io/)
+[![CSS](https://img.shields.io/badge/CSS-Expert-orange)](https://shields.io/)
 [![Python](https://img.shields.io/badge/Python-Expert-blue)](https://shields.io/)
-[![C#](https://img.shields.io/badge/C%23-Intermediate-green)](https://shields.io/)
+[![C#](https://img.shields.io/badge/C%23-Pro-green)](https://shields.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-[![HTML](https://img.shields.io/badge/HTML-Intermediate-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/HTML-Expert-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 
 ## 🔭 My stats
