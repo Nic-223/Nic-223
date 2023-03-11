@@ -32,7 +32,7 @@ I have several projects on my GitHub that showcase my skills and interests:
 [![Repos Badge](https://badges.pufler.dev/repos/Nic-223)](https://badges.pufler.dev)
 
 
-## 📚 Badges
+## 📚 Languages
 
 Here are some badges that represent my skills and achievements:
 
