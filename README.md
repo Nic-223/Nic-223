@@ -17,11 +17,19 @@ I'm a programmer who is passionate about building things with code. I know a var
 
 I have several projects on my GitHub that showcase my skills and interests:
 
-- [Vexnet]([https://github.com/Nic-223/Project-1](https://github.com/Nic-223/Sunlight-systems)) - A multi purpose discord bot
+- [Sunlight Systems]([https://github.com/Nic-223/Project-1](https://github.com/Nic-223/Sunlight-systems)) - A multi purpose discord bot
 
 ## 🔭 My stats
 
 [![Nic-223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nic-223&count_private=true&show_icons=true&theme=radical)](https://github.com/Nic-223)
+
+## Badges
+[![GitHub followers](https://img.shields.io/github/followers/Nic-223?style=social)](https://github.com/Nic-223)
+[![GitHub issues](https://img.shields.io/github/issues-raw/Nic-223/Nic-223?color=green)](https://github.com/Nic-223/Nic-223/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Nic-223/Nic-223)](https://github.com/Nic-223/Nic-223/pulls)
+[![Visits Badge](https://badges.pufler.dev/visits/Nic-223/Nic-223)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/Nic-223)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Nic-223)](https://badges.pufler.dev)
 
 
 ## 📚 Badges
