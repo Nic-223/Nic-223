@@ -21,7 +21,7 @@ I have several projects on my GitHub that showcase my skills and interests:
 
 ## 🔭 My stats
 
-[[![Nic-223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nic-223&count_private=true&show_icons=true&theme=radical)]
+<img align="left" alt="Nic-223's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nic-223&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
 ### 🛠️ Languages and Tools
 
