@@ -9,6 +9,9 @@ I am proficient in several programming languages and technologies, including:
 - **CSS**
 - **C#**
 - **Node.js**
+- **Lua**
+- **JS**
+- **VueJS**
 - **Flask**
 - **SQL Databases**
 - **HTML**
