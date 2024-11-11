@@ -18,7 +18,8 @@ I am proficient in several programming languages and technologies, including:
 I have developed multiple projects that demonstrate my capabilities and interests. Notable projects include:
 
 - **[Sunlight Systems](https://github.com/Nic-223/Sunlight-systems)** - A Moderation Bot for Discord, leveraging automation to improve community management and engagement.
-
+- **[MoonGuard Anticheat](https://github.com/Nic-223/Moonguard-Fivem-Anticheat)** - Advanced FiveM Anticheat, introducing several new functions and innoviations.
+- **[SecureAuth](https://github.com/Nic-223/Secureauth)** - To that time, advanced and fast debugger/program detectors for FiveM auths.
 ### Skills & Proficiency
 
 [![CSS](https://img.shields.io/badge/CSS-Expert-orange)](https://shields.io/)  
