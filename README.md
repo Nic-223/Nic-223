@@ -23,6 +23,12 @@ I have developed multiple projects that demonstrate my capabilities and interest
 - **[Sunlight Systems](https://github.com/Nic-223/Sunlight-systems)** - A Moderation Bot for Discord, leveraging automation to improve community management and engagement.
 - **[MoonGuard Anticheat](https://github.com/Nic-223/Moonguard-Fivem-Anticheat)** - Advanced FiveM Anticheat, introducing several new functions and innoviations.
 - **[SecureAuth](https://github.com/Nic-223/Secureauth)** - To that time, advanced and fast debugger/program detectors for FiveM auths.
+
+### GitHub Stats
+
+<img align="left" alt="Nic-223's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nic-223&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+
+
 ### Skills & Proficiency
 
 [![CSS](https://img.shields.io/badge/CSS-Expert-orange)](https://shields.io/)  
@@ -32,9 +38,6 @@ I have developed multiple projects that demonstrate my capabilities and interest
 [![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)  
 [![HTML](https://img.shields.io/badge/HTML-Expert-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-### GitHub Stats
-
-<img align="left" alt="Nic-223's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nic-223&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
 ### Technologies
 
